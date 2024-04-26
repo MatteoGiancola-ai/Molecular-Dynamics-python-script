@@ -1,0 +1,2 @@
+This code allows you to perform brief molecular dynamcs simulations of small samples in 1, 2 and 3 dimensions using chartesian coordinates for ther atoms as inputs (I used VESTA files) together with others inputs: I wrote them in external files because it is a project for an exam in which I wanted to show my ability with reading routines, but the code can be easily modified to include them in the code itself.
+Several other improvements can be easily done by using Python powers.
